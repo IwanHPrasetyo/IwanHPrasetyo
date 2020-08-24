@@ -4,6 +4,8 @@
 
 [![Facebook Badge](https://img.shields.io/badge/-IwanHPrasetyo-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/nohara.s.iwan)](https://www.facebook.com/nohara.s.iwan) [![Linkedin Badge](https://img.shields.io/badge/-IwanHPrasetyo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/iwan-h-prasetyo-643344196/)](http://linkedin.com/in/iwan-h-prasetyo-643344196/)
 
+Full Stack Engineer is specialized in developing websites with native PHP and developing Android applications with Java Native. I love developing applications related to artificial intelligence. Currently, improving my skills for full stack using Node js, Express js, React Js and React Native.
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=IwanHPrasetyo&show_icons=true)
 
 <!--

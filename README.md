@@ -1,10 +1,11 @@
-### Hi there 👋, I'm Iwan!
-
 ![dino](https://user-images.githubusercontent.com/55027286/91012262-0078bf80-e610-11ea-88bb-536fdda147dc.gif)
+
+### Hi there 👋, I'm Iwan!
 
 [![Facebook Badge](https://img.shields.io/badge/-IwanHPrasetyo-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/nohara.s.iwan)](https://www.facebook.com/nohara.s.iwan) [![Linkedin Badge](https://img.shields.io/badge/-IwanHPrasetyo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/iwan-h-prasetyo-643344196/)](http://linkedin.com/in/iwan-h-prasetyo-643344196/)
 
-Full Stack Engineer is specialized in developing websites with native PHP and developing Android applications with Java Native. I love developing applications related to artificial intelligence. Currently, improving my skills for full stack using Node js, Express js, React Js and React Native.
+<p><em>Software Developer at <a href="https://www.stockin.co.id/">Stockin</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=IwanHPrasetyo&show_icons=true)
 

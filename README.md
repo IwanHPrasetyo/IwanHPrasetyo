@@ -1,6 +1,4 @@
 
-![dino](https://user-images.githubusercontent.com/55027286/91012262-0078bf80-e610-11ea-88bb-536fdda147dc.gif)
-
 ## Hi there 👋, I'm Iwan!  
 
 <p align="center">
@@ -13,6 +11,8 @@
 <p align="center"><em><img src="https://www.stockin.co.id/wp-content/uploads/2020/03/stockin_landscape.png" width="100"></em></p>
 <p align="center"><em>Software Developer at <a href="https://www.stockin.co.id/">Stockin</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+
+## My GitHub Stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=IwanHPrasetyo&show_icons=true)
 

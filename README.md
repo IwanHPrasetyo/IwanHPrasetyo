@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![dino](https://user-images.githubusercontent.com/55027286/91012262-0078bf80-e610-11ea-88bb-536fdda147dc.gif)
+
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=IwanHPrasetyo&show_icons=true)
 
 <!--

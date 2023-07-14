@@ -2,8 +2,7 @@
 ## Hi there 👋, I'm Iwan!  
 
 <p align="center">
-<!--   <img src="https://media3.giphy.com/media/lT4AKdHB7OW3Z37GMH/giphy.webp" width="200"> -->
-  <img src="[https://media3.giphy.com/media/lT4AKdHB7OW3Z37GMH/giphy.webp](https://cdn.dribbble.com/users/702789/screenshots/16753395/media/d474d6fef4ec343d5aceff7d19f070ba.mp4)" width="200">
+  <img src="https://media3.giphy.com/media/lT4AKdHB7OW3Z37GMH/giphy.webp" width="200">
 </p>
 
  

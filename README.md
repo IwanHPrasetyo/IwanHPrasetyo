@@ -6,7 +6,7 @@
 </p>
 
  
-<p align="center"><em>Software Developer at <a href="https://www.stockin.co.id/">Sss</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p align="center"><em>Software Developer at <a href="">Sss</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <!-- ## My GitHub Stats

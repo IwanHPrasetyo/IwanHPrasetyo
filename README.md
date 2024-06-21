@@ -6,9 +6,7 @@
 </p>
 
  
-[![Facebook Badge](https://img.shields.io/badge/-IwanHPrasetyo-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/nohara.s.iwan)](https://www.facebook.com/nohara.s.iwan) [![Linkedin Badge](https://img.shields.io/badge/-IwanHPrasetyo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/iwan-h-prasetyo-643344196/)](http://linkedin.com/in/iwan-h-prasetyo-643344196/)
-
-<p align="center"><em>Software Developer at <a href="https://www.stockin.co.id/">Stockin</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p align="center"><em>Software Developer at <a href="https://www.stockin.co.id/">Sss</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <!-- ## My GitHub Stats

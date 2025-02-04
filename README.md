@@ -1,13 +1,13 @@
 
 ## Hi there 👋, I'm Iwan!  
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/lT4AKdHB7OW3Z37GMH/giphy.webp" width="200">
-</p> 
-
 <!--<p align="center">
+  <img src="https://media3.giphy.com/media/lT4AKdHB7OW3Z37GMH/giphy.webp" width="200">
+</p> -->
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/370db2dd-f358-4ac3-9cb5-547b9e3a26d5" width="800">
-</p>-->
+</p>
 
 
 <p align="center">

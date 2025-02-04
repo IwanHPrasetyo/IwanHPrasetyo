@@ -1,5 +1,5 @@
 
-## Hi there 👋, I'm Iwan!  
+## Hi there 👋, I'm Iwan !
 
 <!--<p align="center">
   <img src="https://media3.giphy.com/media/lT4AKdHB7OW3Z37GMH/giphy.webp" width="200">
